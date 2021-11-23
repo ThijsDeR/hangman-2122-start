@@ -64,3 +64,8 @@ li {
 .lost {
   background-color: red;
 }
+
+canvas#stageCanvas {
+  width: 200px;
+  height: 200px;
+}
